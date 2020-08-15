@@ -26,8 +26,8 @@ import InfoBreach from '../../assets/infobreach.png';
 import Omen from '../../assets/omen.png';
 import InfoOmen from '../../assets/infoomen.jpg';
 
-import Brimstone from '../../assets/Brimstone.png';
-import InfoBrimstone from '../../assets/infoBrimstone.png';
+import Brimstone from '../../assets/brimstone.png';
+import InfoBrimstone from '../../assets/infobrimstone.png';
 
 import Phoenix from '../../assets/phoenix.png';
 import InfoPhoenix from '../../assets/infophoenix.png';
