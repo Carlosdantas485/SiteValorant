@@ -17,7 +17,7 @@ export const Container = styled.div`
 
             h1{
                 color:#fff;
-                font-size: 30px;
+                font-size: 25px;
             }
         }
 
@@ -38,6 +38,7 @@ export const Container = styled.div`
                 align-items:center;
 
                 h2{
+                    font-size: 20px;
                     color:#ffff;
                 }
 
@@ -73,6 +74,8 @@ export const Container = styled.div`
                     justify-content:space-around;
 
                     a{
+                        font-size: 15px;
+                        text-align:center;
                         color: #fff;
                         text-decoration:none;
                         .recover{
@@ -86,6 +89,9 @@ export const Container = styled.div`
                 }
             }
         }
+    }
+    @media(max-width: 768px){
+        
     }
 
 `;
